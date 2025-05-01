@@ -1,0 +1,8 @@
+[
+  {"question":"Hi","answer":"Hello! How can I help you?"},
+  {"question":"What is your name?","answer":"I'm ChatBot, here to help you!"},
+  {"question":"How do I reset my password?","answer":"To reset your password, click 'Forgot Password' on the login page."},
+  {"question":"How are you?","answer":"I'm a bot, but I'm functioning perfectly!"},
+  {"question":"Thanks","answer":"You're welcome! Let me know if you have more questions."},
+  {"question":"Bye","answer":"Goodbye! Have a great day!"}
+]
