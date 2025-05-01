@@ -1,8 +1,22 @@
 [
-  {"question":"Hi","answer":"Hello! How can I help you?"},
-  {"question":"What is your name?","answer":"I'm ChatBot, here to help you!"},
-  {"question":"How do I reset my password?","answer":"To reset your password, click 'Forgot Password' on the login page."},
-  {"question":"How are you?","answer":"I'm a bot, but I'm functioning perfectly!"},
+  {"question":"Hi","answer":"Hello! How can I help you today?"},
+  {"question":"Hello","answer":"Hi there! What can I do for you?"},
+  {"question":"What is your name?","answer":"I'm ChatBot, your virtual assistant."},
+  {"question":"How are you?","answer":"I'm doing great, thanks for asking!"},
+  {"question":"How do I reset my password?","answer":"Click 'Forgot Password' on the login page and follow the instructions."},
+  {"question":"I forgot my username","answer":"Please contact support to recover your username."},
+  {"question":"What services do you offer?","answer":"We offer chatbot solutions, automation tools, and AI training."},
+  {"question":"How can I contact support?","answer":"You can reach our support team at support@example.com."},
+  {"question":"What is your refund policy?","answer":"We offer a 30-day money-back guarantee on all plans."},
+  {"question":"Where are you located?","answer":"Our headquarters is in New Delhi, India."},
+  {"question":"Can you help me with login issues?","answer":"Yes! Please let me know what error you're seeing when logging in."},
+  {"question":"Tell me a joke","answer":"Why don’t scientists trust atoms? Because they make up everything!"},
+  {"question":"What time is it?","answer":"I don't have a live clock, but you can check your system time."},
+  {"question":"How can I upgrade my plan?","answer":"Go to your dashboard, click 'Billing', and choose a new plan."},
+  {"question":"Do you offer support on weekends?","answer":"Yes, our support team is available 7 days a week."},
+  {"question":"Can I cancel my subscription?","answer":"Yes, you can cancel anytime from your billing settings."},
+  {"question":"Is my data secure?","answer":"We use industry-standard encryption to keep your data safe."},
+  {"question":"Who developed you?","answer":"I was created by the team at HanuAI for this assignment!"},
   {"question":"Thanks","answer":"You're welcome! Let me know if you have more questions."},
-  {"question":"Bye","answer":"Goodbye! Have a great day!"}
+  {"question":"Bye","answer":"Goodbye! Have a wonderful day!"}
 ]
