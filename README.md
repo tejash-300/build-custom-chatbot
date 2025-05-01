@@ -7,7 +7,7 @@ A lightweight chatbot app powered by a fine-tuned DistilGPT-2 model trained on y
 
 ## 🌟 Demo
 
-![Chat UI](assets/chat_ui.png)
+![Chat UI](Screenshot 2025-05-01 155343.png)
 
 ---
 
