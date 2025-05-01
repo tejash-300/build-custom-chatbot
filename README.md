@@ -115,25 +115,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [Tejas Pandey](https://github.com/tejash-300)
-
-```
-
----
-
-### ✅ What to do now:
-
-1. Save your uploaded screenshot as:
-   ```
-   assets/chat_ui.png
-   ```
-2. Copy and paste the full `README.md` content into a file at the root of your project.
-3. Commit both:
-   ```bash
-   git add README.md assets/chat_ui.png
-   git commit -m "Add README with UI screenshot"
-   git push origin main
-   ```
-
-Let me know if you also want a **video demo section**, **Colab badge**, or **GitHub Pages deployment** added.
-
-
